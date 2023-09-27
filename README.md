@@ -1,5 +1,5 @@
-#Twitter sentiment anaylsis & stock market prediction
-This is the fronEnd application which gives us a search option to search the stock Names.
+# Twitter sentiment anaylsis & stock market prediction
+This is the frontEnd application which gives us a search option to search the stock Names.
 Ones the stock name is selected from the drop down data.
 It will take the ticker data and scrape yahoo finance for previous 5 years of data and at the same time seach the entered keyword in twitter for setiment analysis.
 We have a option to enter the number of tweets to be analysed.
@@ -18,8 +18,7 @@ Below that we have the list of almost 200 top companies and 200 top lowest compa
 
 All the data in this application no data is stored on any server or database.
 
-To get the local Api check my repo name `StockSentimentApi
-Public`
+To get the local Api check my repo with name `[StockSentimentApi](https://github.com/jashpaleja/StockSentimentApi)`
 
 # Getting Started with Create React App
 
