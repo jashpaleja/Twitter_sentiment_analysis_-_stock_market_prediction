@@ -18,7 +18,7 @@ Below that we have the list of almost 200 top companies and 200 top lowest compa
 
 All the data in this application no data is stored on any server or database.
 
-To get the local Api check my repo with name `[StockSentimentApi](https://github.com/jashpaleja/StockSentimentApi)`
+To get the local Api check my repo with name [StockSentimentApi](https://github.com/jashpaleja/StockSentimentApi)
 
 # Getting Started with Create React App
 
